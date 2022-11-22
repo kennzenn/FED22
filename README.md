@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="images/FEDpage1.png" width="375px" alt="overzicht pagina van een webshop">
+  <img src="readme-images/FEDpage1.png" width="375px" alt="overzicht pagina van een webshop">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="images/FEDpage2.png" width="375px" alt="detail pagina van een product">
+  <img src="readme-images/FEDpage2.png" width="375px" alt="detail pagina van een product">
  
 </details>
 
@@ -56,30 +56,78 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 1e werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Toegankelijkheid test Campina homepage
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Wat valt op screenreader:
+  Door middel van de rotor kun je selecteren op welk onderdeel je wilt zoeken met de voice over (FOTO ROTOR google)
+
+  Screenreader heading:
+  Geeft aan of het h1,h2, h3 of h4 is
+  Op Campina home is de menu banner h2
+  H3 zijn de kopjes in de footer.
+  Geeft aan dat je op de laatste heading bent als je helemaal naar beneden scrollt
+
+  Screenreader links: 
+  Veel links op de pagina van Campina. Interessante is dat die zelfs door de links in de dropdown van de menu items heengaat, deze zijn niet zichtbaar tenzij je over de menu items hoverd. Apart maar dit kan voor een blinde denk ik wel handig zijn om te zien wat er allemaal in de navigatie zit.
+  Geeft aan dat dat ‘first link’ in de UPS bar zit.
+
+  Zo ziet de rotor er in de UI uit:
+
+  <img src="readme-images/rotor.png" width="375px" alt="detail pagina van een product">
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Bediening, wat valt op:
+  Kan alleen door de site navigeren door te tabben en dit gaat alleen naar beneden. Het is dus niet mogelijk op met de pijltjes naar links en rechts te navigeren.
+  Door de pijltjes te gebruiken of spatie kun je scrollen op de pagina.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Volgorde, wat valt op:
+  De volgorde gaat door de lists heen. In de footer gaat dat van boven naar beneden
+  Op de producten pagina gaat de volgorde door de list heen wel horizontaal.
+  Ook ga je door deze manier van navigeren weer door alle submenu items die niet zichtbaar zijn.
+
+  State, wat valt op:
+  Active state word getoond als iets geselecteerd is door middel van te tabben. Hover en focus niet.
 
 
   #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Slechte motoriek:
+  Elastieken om je vingers nemen de vrijheid weg die je gewent bent door al je verschillende vingers een andere kant op te laten bewegen. Hierdoor ben je een stuk minder snel met typen.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Concentratieprobleem:
+  Hier kan ik niet veel over te zeggen.
+
+  Spasmes:
+  Erg genoten van de EMS Spierstimulator, mooi dat zoiets mag worden toegepast op studenten. Alleen kunnen de effecten wel zo heftig zijn dat je bijna geen gebruik kan maken van bijvoorbeeld een computer.
+
+  VIDEOVIDEOVIDEOVIDEO
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Brillen:
+  Verschillende vormen visuele beperkingen zijn te ervaren door deze brillen:
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  <img src="readme-images/brillen.png" width="375px" alt="brillen met effecten gebruikt in tijdens de toegankelijkheid test">
+
+  Hier een voorbeeld van als je door de 'blurry bril' kijkt:
+
+  <img src="readme-images/blurryvision.png" width="375px" alt="blurry vision">
+
+  Kluerenblind:
+  De Campina branding (groene kleur) komt niet terug bij verschillende soorten van kleurenblindheid maar alle elementen zijn nog wel te zien en te begrijpen
+  Voorbeeld van de Campina website als je de visuale beperking 'Protanopia' hebben:
+
+  <img src="readme-images/campinageel.png" width="375px" alt="visuele beperking protanopia">
+
+  Voorbeeld van de Campina website als je de visuale beperking 'Tritanopia' zou hebben:
+
+  <img src="readme-images/campinablauw.png" width="375px" alt="visuele beperking tritanopia">
+
+  Dark/light-mode:
+  Er is geen dark-mode beschikbaar vanuit de browser en er is ook geen toggle om dark-mode aan te zetten op de website zelf.
+
 
 </details>
 
