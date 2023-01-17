@@ -258,35 +258,44 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na test in 8e werkgroep</summary>
 
-  ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  ### Mijn bevindingen SpaceX website van Joep:
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Screenreader heading:
+  Geeft op mijn laptop niet aan wat de headings zijn maar bij Joep wel. (Misschien iets met mijn instellingen)
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Screenreader links: 
+  Links zijn goed aangegeven met state(visited) en titel
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Bediening:
+  Navigeren kan naar links en rechts door gebruik te maken van de pijltjes.
+  Met tab alleen naar rechts.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
+  Button states zijn goed uitgewerkt.
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
+  Kleuren:
+  Blurred: Moeilijk leesbaar.
+  Pratonopia, Deuteranopia, Tritanopia, Achromatopsia: Goed zichtbaar en leesbaar.
 
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Dark/light-mode:
+  Is niet uitgewerkt.
 
+  #### Motoriek (shocks, elastiekjes)
+  Slechte motoriek:
+  Elastieken om je vingers nemen de vrijheid weg die je gewent bent door al je verschillende vingers een andere kant op te laten bewegen. Hierdoor ben je een stuk minder snel met typen.
+
+  Visuele beperkingen
+  Verschillende vormen visuele beperkingen zijn te ervaren door deze brillen:
+
+  Concentratieprobleem:
+  Story of my life
+
+  Spasmes
+  Erg genoten van de EMS Spierstimulator, mooi dat zoiets mag worden toegepast op studenten. Alleen kunnen de effecten wel zo heftig zijn dat je bijna geen gebruik kan maken van bijvoorbeeld een computer.
 </details>
-
-
 
 
 
@@ -301,32 +310,37 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Ben blij dat het tot dusver aardig gelukt is en dat ik alles tot op zekere hoogte goed gebrijp.
 
-  <img src="readme-images/voortgang3.png" width="375px" alt="nieuwe pagine: productpagina">
+  <img src="readme-images/voortgang3.png" width="375px" alt="nieuwe pagina: productpagina">
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
   Chelsey:
-  
+  (is afwezig)
 
   Mauro:
-  
+  Body heeft standaard margin; is nu weggehaald.
+
 
   Stein:
-  
+  Weet het allemaal wel.
 
   Kenneth:
-  
+            Vragen: 
+            - :root colors werken op de ene plek wek, op de andere niet.
+            - flexbox werktniet lekker bij de buttons in de form, komt denk ik doordat daaronder het een en ander overschrijf. 
+            - Form responsiveness... ..> media queries
+            - JavaScript voor de + en - van een product
+
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - JavaScript enigszins geleerd
+  - 1. Bijna klaar, flex box fixen in de vorm
+  - 2. Media querie fixen
 
 </details>
 
@@ -340,17 +354,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitkomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
+
+  Veel ging beter dan ik had verwacht.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
+
+  Ik vond JavaScript nog wel lastig om te begrijpen. Ik ben bang dat ik de JS les heb moeten missen vanwege een Kick-Off voor afstuderen maar gelukkig was Sanne daar om me op weg te helpen tijdens/na de laatste voortganggesprek.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -366,8 +384,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. Css tricks flexbox
+  2. Css tricks flexbox
+  3. Youtube HTML form styling
 
 </details>
