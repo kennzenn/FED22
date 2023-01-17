@@ -26,7 +26,9 @@
     --color-text-emphasize:rgb(241,0,0);
 	--color-background:rgb(255, 255, 255);
     --color-button-hover:rgb(125, 125, 125);
-    --color-button-onclick: rgb(72, 72, 72);
+    --color-button-focused:rgb(125, 125, 125);
+    --color-button-active: rgb(72, 72, 72);
+    --color-button-border: rgb(55, 34, 156);
 
 }
 
