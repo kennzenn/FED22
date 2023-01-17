@@ -55,7 +55,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken na test in 1e werkgroep</summary>
 
-  ### Bevindingen
+  ### Mijn bevindingen Campina website van Redouan:
 
   #### Screenreader
   Toegankelijkheid test Campina homepage
@@ -102,7 +102,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Spasmes:
   Erg genoten van de EMS Spierstimulator, mooi dat zoiets mag worden toegepast op studenten. Alleen kunnen de effecten wel zo heftig zijn dat je bijna geen gebruik kan maken van bijvoorbeeld een computer.
 
-  VIDEOVIDEOVIDEOVIDEO
+  ()
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
@@ -128,6 +128,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Dark/light-mode:
   Er is geen dark-mode beschikbaar vanuit de browser en er is ook geen toggle om dark-mode aan te zetten op de website zelf.
 
+### Redoun z'n bevindingen voor mijn website (Live From Earth Shop):
+
+  -Voice over-
+  Bevinding 1: De homepagina van de website bevat geen headings. Deze staan niet als optie in de Rotor.
+  Bevinding 2: Op de homepagina zijn de linkjes vrij duidelijk. Vooral omdat (bijna) alle content hierop linkjes zijn.
+  Bevinding 3: De links zijn ook de titels.
+
+  -Toetsenbord & muis-
+  Bevinding 1: De tab gaat wel logisch door alle elementen heen. Maar je kunt niet zien op welke element je zit.
+  Bevinding 2: Bij de producten pagina is het niet alleen dat je niet de tab selecgie ziet. Maar de volgorde van de tab navigatie gaat is niet logisch. Het is ook ondeuidelijk waar het begint en eindigt.
 
 </details>
 
@@ -165,20 +175,26 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Chelsey:
+  website: starbucks.nl
 
+  Mauro:
+  website: garagenoord.com
+  tekst langs de zijkant laten bewegen; writing-mode & marquee
+
+  Stein:
+  website: spoorwegmusuem.nl
+
+  Kenneth:
+  website:livefromearth.shop
+  Ben geholpen met de opzet van m'n html
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - HTML opzet
+  - Sanne heeft na afloop nog eventjes geholpen
+  - 
 
 </details>
 
@@ -194,24 +210,42 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  Ben blij hoe het gaat, leetste tijd niet echt aan kunnen werken (persoonlijke situatie en werk)
+  Hoop zo snel mogelijk de homepage af te hebben.
+  Wat hab ik nog nodig:
+  - Header
+  - Footer
+
+  Wat ik tot nu toe heb:
+
+  <img src="readme-images/voortgang21.png" width="375px" alt="website tot nu toe">
+
+  <img src="readme-images/voortgang22.png" width="375px" alt="css">
+
+  <img src="readme-images/voortgang23.png" width="375px" alt="html">
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+  Vragen zijn gedeeld in Teams
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Chelsey:
+  Ordered list in de list item zetten
 
+  Mauro:
+  Font erin gezet, maakt een groot verschil
+
+  Stein:
+  Video in de website gezet
+
+  Kenneth:
+  Responsive catologus (ul) in display grid. List item in display flex. SOLDOUT absolute gepositioneerd.
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - div mag als Sanne en Stein het goed vinden 
+  - 
+  - 
+
 
 </details>
 
@@ -262,17 +296,28 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Bijna klaar. Nog wat details uitwerken die niet helemaal meewerken (:root etc.)
+  Verder alleen nog een interactie uitwerken mat javascript.
+
+  Ben blij dat het tot dusver aardig gelukt is en dat ik alles tot op zekere hoogte goed gebrijp.
+
+  <img src="readme-images/voortgang3.png" width="375px" alt="nieuwe pagine: productpagina">
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  Chelsey:
+  
+
+  Mauro:
+  
+
+  Stein:
+  
+
+  Kenneth:
+  
 
 
   ### Verslag van meeting

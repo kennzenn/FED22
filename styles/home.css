@@ -1,0 +1,50 @@
+
+/********/
+/* MAIN */
+/********/
+
+main section:nth-of-type(1)  ul{
+	display: grid;
+	grid-template-columns: repeat( auto-fit, minmax(24em, 1fr) );
+	gap:2em;
+	list-style-type: none;
+	padding:2em	;
+	margin:0 auto;
+	margin-top: -2em;
+	max-width: 106em;
+}
+
+main  section:nth-of-type(1) li {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+}
+
+
+main section ul li a{
+	text-decoration: none;
+	color:var(--color-text);
+}
+
+main  section:nth-of-type(1) li a{
+	display: flex;
+	flex-direction: column;
+	position: relative;
+}
+
+main section:nth-of-type(1) li img{
+	order: -100;
+	width:100%;
+}
+
+main section:nth-of-type(1) li p:nth-of-type(2){
+	color:var(--color-text-emphasize);
+	position: absolute;
+	right: 0em;
+	bottom: 4.5em;
+}
+
+
+
+
+
