@@ -163,19 +163,6 @@ li img:hover{
         grid-row-start: 3;
         grid-column-start: 2;
     }
-
-    footer ul{
-        gap: 0.5em;
-    }
-
-    footer > ul img {
-        width: 3em;
-    }
-
-    /*
-    main section ul li{
-        width: 23.4375em; BAH!!!!
-    } */
 }
 
 

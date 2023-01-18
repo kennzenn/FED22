@@ -360,15 +360,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  Veel ging beter dan ik had verwacht.
+  Veel ging beter dan ik had verwacht en ik begrijp de stof beter dan ik had verwacht. Maar dit keer wou ik het gewoon veel meer dan voorgaande jaren.
+  De afgelopen weken heb ik in de les m'n best gedaan en vervolgens thuis, voor de volgende les, zover mogelijk komen met wat ik had geleerd en wat ik op het internet opzocht. Waar ik niet uit kwam bewaarde ik voor de volgende les waar ik goed geholpen werd door Sanne en zijn assistent. Dit herhaalde ik elke week en ik ben ook vaak extra langs na de les blijven zitten om zoveel mogelijk te leren en zover mogelijk te komen met het bouwen van de website.
 
+  Hier het visuele resultaat:
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
-  Ik vond JavaScript nog wel lastig om te begrijpen. Ik ben bang dat ik de JS les heb moeten missen vanwege een Kick-Off voor afstuderen maar gelukkig was Sanne daar om me op weg te helpen tijdens/na de laatste voortganggesprek.
+  Ik vond JavaScript nog wel lastig om te begrijpen. Ik ben bang dat ik de JS les heb moeten missen vanwege een Kick-Off voor afstuderen maar gelukkig was Sanne daar om me op weg te helpen tijdens en na het laatste voortganggesprek.
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>

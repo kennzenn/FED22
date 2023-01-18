@@ -144,7 +144,7 @@ footer > ul{
 	display: flex;
 	align-items: center;
 	align-self: center;
-	gap: 2em;
+	gap: 0.5em;
 
     margin:0;
     padding:0;
@@ -152,7 +152,7 @@ footer > ul{
 }
 
 footer > ul img{
-	width: 5em;
+	width: 3em;
 }
 
 /* info en social media links */
@@ -188,3 +188,13 @@ footer section p:nth-of-type(2) {
 	color:var(--color-text-emphasize)
 }
 
+@media (min-width: 50em){
+
+    footer ul{
+        gap: 2em;
+    }
+    
+    footer > ul img {
+        width: 5em;
+    }
+}
