@@ -373,10 +373,10 @@ Headings en links worden opgenoemd.
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Uitkomst dekstop - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitkomst dekstop versie">
+  <img src="readme-images/desktop.jpg" width="375px" alt="uitkomst dekstop versie">
 
   ### Uitkomst dekstop - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitkomst mobiele versie">
+  <img src="readme-images/mobile.jpg" width="375px" alt="uitkomst mobiele versie">
 
 
   ### Dit ging goed/Heb ik geleerd: 
