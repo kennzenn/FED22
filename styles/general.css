@@ -72,7 +72,7 @@ header{
 	flex-direction: row;
 	align-items: center;
 	justify-content: space-between;
-    padding:.5em 1.5em;
+    padding:.5em 0.75em;
     position: sticky;
     top: 0;
     z-index: 200;
@@ -188,7 +188,13 @@ footer section p:nth-of-type(2) {
 	color:var(--color-text-emphasize)
 }
 
+/* Zorgt ervoor dat de header en footer er netter uitzien op mobiel. */
+
 @media (min-width: 50em){
+
+    header{
+        padding:.5em 1.5em;
+    }
 
     footer ul{
         gap: 2em;
