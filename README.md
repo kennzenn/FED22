@@ -280,21 +280,40 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blurred: Moeilijk leesbaar.
   Pratonopia, Deuteranopia, Tritanopia, Achromatopsia: Goed zichtbaar en leesbaar.
 
+  <img src="readme-images/buurman.png" width="375px" alt="uitkomst toegankelijkheidstest van buurman">
+
   Dark/light-mode:
   Is niet uitgewerkt.
 
-  #### Motoriek (shocks, elastiekjes)
-  Slechte motoriek:
-  Elastieken om je vingers nemen de vrijheid weg die je gewent bent door al je verschillende vingers een andere kant op te laten bewegen. Hierdoor ben je een stuk minder snel met typen.
 
-  Visuele beperkingen
-  Verschillende vormen visuele beperkingen zijn te ervaren door deze brillen:
+  ##################################################################################################################################################################
 
-  Concentratieprobleem:
-  Story of my life
+  ### Mijn bevindingen van mijn eigen website https://www.livefromearth.shop/ :
 
-  Spasmes
-  Erg genoten van de EMS Spierstimulator, mooi dat zoiets mag worden toegepast op studenten. Alleen kunnen de effecten wel zo heftig zijn dat je bijna geen gebruik kan maken van bijvoorbeeld een computer.
+  #### Screenreader
+
+  De screenreader werkt beter dan ik had verwacht alleen het tabben door alle list items heen is een beetje vermoeiend. De zogenaamde filter linksboven in de header werkt niet lekker omdat de screenreader voorleest 'checkbox, unticked'. In de footer worden ook alle list items netjes opgenoemd met de alt text van de image.
+Headings en links worden opgenoemd.
+
+
+  #### Muis en Toetsenbord 
+  Bediening:
+  Navigeren kan naar links en rechts door gebruik te maken van de pijltjes.
+  Met tab alleen naar rechts.
+
+  Button states zijn goed uitgewerkt.
+
+  #### Visueel (brillen, contrast, kleurenblind, dark/light). 
+  Kleuren:
+  Blurred: Enigszins zichtbaar en leesbaar vanwege lettertype en contrast
+  Pratonopia, Deuteranopia, Tritanopia, Achromatopsia: Heel goed zichtbaar.
+
+  Dark/light-mode:
+  Is niet uitgewerkt.
+  
+  <img src="readme-images/toegankelijkheid2.png" width="375px" alt="uitkomst toegankelijkheidstest van mijn eigen website">
+
+
 </details>
 
 
@@ -339,7 +358,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
   - JavaScript enigszins geleerd
-  - 1. Bijna klaar, flex box fixen in de vorm
+  - 1. Bijna klaar, flex box repareren in de vorm
   - 2. Media querie fixen
 
 </details>
@@ -353,26 +372,30 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken voor eindgesprek</summary>
 
-  ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitkomst opdracht 1">
+  ### Uitkomst dekstop - karakteristiek screenshots:
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitkomst dekstop versie">
+
+  ### Uitkomst dekstop - karakteristiek screenshots:
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitkomst mobiele versie">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
   Veel ging beter dan ik had verwacht en ik begrijp de stof beter dan ik had verwacht. Maar dit keer wou ik het gewoon veel meer dan voorgaande jaren.
-  De afgelopen weken heb ik in de les m'n best gedaan en vervolgens thuis, voor de volgende les, zover mogelijk komen met wat ik had geleerd en wat ik op het internet opzocht. Waar ik niet uit kwam bewaarde ik voor de volgende les waar ik goed geholpen werd door Sanne en zijn assistent. Dit herhaalde ik elke week en ik ben ook vaak extra langs na de les blijven zitten om zoveel mogelijk te leren en zover mogelijk te komen met het bouwen van de website.
+  De afgelopen weken heb ik in de les m'n best gedaan en vervolgens thuis, voor de volgende les, zover mogelijk komen met wat ik had geleerd en wat ik op het     internet opzocht. Waar ik niet uit kwam bewaarde ik voor de volgende les waar ik goed geholpen werd door Sanne en zijn assistent. Dit herhaalde ik elke week en ik ben ook vaak extra langs na de les blijven zitten om zoveel mogelijk te leren en zover mogelijk te komen met het bouwen van de website.
 
-  Hier het visuele resultaat:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
+Nadat ik eenmaal over de standaard html lastigheid kwam heb ik veel nieuwe kunnen leren over grid, flexbox, Mmdia queries, custom properties en javascript wat voor mij dit keer nieuw was omdat ik nooit zo ver ben gekomen met dit vak.
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
   Ik vond JavaScript nog wel lastig om te begrijpen. Ik ben bang dat ik de JS les heb moeten missen vanwege een Kick-Off voor afstuderen maar gelukkig was Sanne daar om me op weg te helpen tijdens en na het laatste voortganggesprek.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/javascript.png" width="375px" alt="afbleeding van mijn javascript code">
+
+  Verder is alles wat ik wou uitwerken aardig goed gelukt. Zelfs na de laatste les zat ik met het probleem dat de ul op de homepage niet klopte, dit heb ik uiteindelijk zelf weten op te lossen.
+
 </details>
 
 
@@ -387,7 +410,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
   1. Css tricks flexbox
-  2. Css tricks flexbox
+  2. Css tricks grid
   3. Youtube HTML form styling
 
 </details>
